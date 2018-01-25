@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ *
+ * @category    NWT
+ * @package     NWT_Language-sv_se
+ * @copyright   Copyright (c) 2016 Nordic Web Team ( http://nordicwebteam.se/ )
+ * @license     NWT Commercial License (NWTCL 1.0)
+ *
+ */
+-->
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>sv_SE</code>
+    <vendor>nwt</vendor>
+    <package>sv_se</package>
+</language>

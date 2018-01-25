@@ -1,0 +1,12 @@
+{
+    "name": "nwt/language-sv_se",
+    "description": "Swedish (Sweden) language",
+    "version": "1.2.2",
+    "license": "NWTCL 1.0",
+    "type": "magento2-language",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
